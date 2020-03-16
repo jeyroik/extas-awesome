@@ -28,7 +28,7 @@
 - [extas-bv-api](https://github.com/jeyroik/extas-bv-api)
   - `ru`: Микросервис для расчёта эффективности команды разработки.
   - `en`: Microservice for development efficiency calculating.
-- [extas-conditions]](https://github.com/jeyroik/extas-conditions)
+- [extas-conditions](https://github.com/jeyroik/extas-conditions)
   - `ru`: Механизм условий и ограничений.
   - `en`: Conditions and restrictions engine.
 - [extas-envs](https://github.com/jeyroik/extas-envs)

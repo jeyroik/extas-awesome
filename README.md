@@ -61,6 +61,6 @@
 - [extas-workflow-dashboard-svelte](https://github.com/jeyroik/extas-workflow-dashboard-svelte)
   - `ru` Svelte клиент для API для работы с Workflow
   - `en` Svelte client for Workflow API, based on `extas-worklfow-dashboard`.
-- [extas-workflow-example]](https://github.com/jeyroik/extas-workflow-example)
+- [extas-workflow-example](https://github.com/jeyroik/extas-workflow-example)
   - `ru` Пример использования пакета workflow
   - `en` Example project, shows the workflow usage.

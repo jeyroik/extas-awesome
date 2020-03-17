@@ -22,6 +22,9 @@
 - [extas-alice](https://github.com/jeyroik/extas-alice)
   - `ru` Библиотека для создания навыков для Алисы Яндекса.
   - `en` Library for the Yandex Alice skills development.
+- [extas-alice-example](https://github.com/jeyroik/extas-alice-example)
+  - `ru` Пример использования библиотеки `extas-alice`.
+  - `en` Example of `extas-alice` usage.
 - [extas-bv](https://github.com/jeyroik/extas-bv)
   - `ru` Библиотека для расчёта бизнес ценности задач.
   - `en` Tasks business value calculating library.

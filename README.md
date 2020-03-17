@@ -20,14 +20,14 @@
   - `ru` Реализация RBAC доступа с чистым воплощением правила "Всё, что не разрешено - запрещено".
   - `en` RBAC with pure implementation of the rule "All that is not allowed is restricted".
 - [extas-bv](https://github.com/jeyroik/extas-bv)
-  - `ru` Библиотека для расчёта эффективности команды разработки.
-  - `en` Development efficiency calculating library.
+  - `ru` Библиотека для расчёта бизнес ценности задач.
+  - `en` Tasks business value calculating library.
 - [extas-bv-profiles](https://github.com/jeyroik/extas-bv-profiles)
-  - `ru` Расширение для пакета `extas-bv`, позволяющее работать с профиля разработчиков.
-  - `en` `extas-bv` extension for working with developers profiles.
+  - `ru` Расширение для пакета `extas-bv`, позволяющее создавать "профили", т.е. наборы весов для БЦ.
+  - `en` `extas-bv` extension for weight profiles constructing.
 - [extas-bv-api](https://github.com/jeyroik/extas-bv-api)
-  - `ru` Микросервис для расчёта эффективности команды разработки.
-  - `en` Microservice for development efficiency calculating.
+  - `ru` Микросервис для работы с БЦ задач.
+  - `en` Microservice for working with issues BV.
 - [extas-conditions](https://github.com/jeyroik/extas-conditions)
   - `ru` Механизм условий и ограничений.
   - `en` Conditions and restrictions engine.

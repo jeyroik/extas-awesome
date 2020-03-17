@@ -19,6 +19,9 @@
 - [extas-access](https://github.com/jeyroik/extas-access)
   - `ru` Реализация RBAC доступа с чистым воплощением правила "Всё, что не разрешено - запрещено".
   - `en` RBAC with pure implementation of the rule "All that is not allowed is restricted".
+- [extas-alice](https://github.com/jeyroik/extas-alice)
+  - `ru` Библиотека для создания навыков для Алисы Яндекса.
+  - `en` Library for the Yandex Alice skills development.
 - [extas-bv](https://github.com/jeyroik/extas-bv)
   - `ru` Библиотека для расчёта бизнес ценности задач.
   - `en` Tasks business value calculating library.

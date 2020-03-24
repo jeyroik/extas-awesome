@@ -58,6 +58,9 @@
 - [extas-repositories-mongo](https://github.com/jeyroik/extas-repositories-mongo)
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.
+- [extas-repositories-uuid-field](https://github.com/jeyroik/extas-repositories-uuid-fields "Uuid in fields")
+  - `ru` Пакет позволяет автоматически генерировать uuid-строки для полей при создании сущности.
+  - `en` Package allow to generate uuid strings for an item fields on creating.
 - [extas-workflow](https://github.com/jeyroik/extas-workflow)
   - `ru` Workflow с поддержкой нескольких схем, ограничений и триггеров.
   - `en` Worklfow with multiple schemas, restrictions and triggers supply.

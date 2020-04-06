@@ -2,7 +2,7 @@
 
 `Extas` представляет собой набор библиотек и микросервисов, которые организуют платформу для разработки web-приложений различного уровня.
 
-Подписывайтесь на новости в Telegram: [@extas-awesome](https://github.com/jeyroik/extas-awesome "Extas").
+Подписывайтесь на новости в Telegram: [@extas-awesome](https://t.me/extasplatform "Extas").
 
 ## Базовые пакеты
 

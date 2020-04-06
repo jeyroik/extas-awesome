@@ -2,6 +2,8 @@
 
 `Extas` представляет собой набор библиотек и микросервисов, которые организуют платформу для разработки web-приложений различного уровня.
 
+Подписывайтесь на новости в Telegram: [@extas-awesome](https://github.com/jeyroik/extas-awesome "Extas").
+
 ## Базовые пакеты
 
 - [extas-foundation](https://github.com/jeyroik/extas-foundation "Базовый пакет")
@@ -67,6 +69,9 @@
 - [extas-workflow-dashboard](https://github.com/jeyroik/extas-workflow-dashboard "Микросервис Workflow")
   - `ru` API для работы с Workflow
   - `en` Workflow JSON RPC api, based on `extas-worklfow`.
+- [extas-workflow-dispatchers](https://github.com/jeyroik/extas-workflow-dispatchers "Обработчики переходов для Workflow")
+  - `ru` Обработчики переходов для Workflow.
+  - `en` Transitions dispatchers for Workflow.
 - [extas-workflow-dashboard-svelte](https://github.com/jeyroik/extas-workflow-dashboard-svelte "Борд для управления Workflow")
   - `ru` Svelte клиент для API для работы с Workflow
   - `en` Svelte client for Workflow API, based on `extas-worklfow-dashboard`.

@@ -77,10 +77,14 @@
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-mongo/coverage.svg?branch=master)
-- [extas-repositories-uuid-fields](https://github.com/jeyroik/extas-repositories-uuid-fields "Uuid для полей сущности") 
+- [extas-repositories-fields-sha1](https://github.com/jeyroik/extas-repositories-fields-sha1 "SHA1 для полей сущности") 
+  - `ru` Пакет позволяет автоматически генерировать sha1-хеши для полей при создании сущности.
+  - `en` Package allow to generate sha1 hash strings for an item fields on creating.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-sha1/coverage.svg?branch=master)
+- [extas-repositories-fields-uuid](https://github.com/jeyroik/extas-repositories-fields-uuid "Uuid для полей сущности") 
   - `ru` Пакет позволяет автоматически генерировать uuid-строки для полей при создании сущности.
   - `en` Package allow to generate uuid strings for an item fields on creating.
-  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-uuid-fields/coverage.svg?branch=master)
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-uuid/coverage.svg?branch=master)
 - [extas-workflow](https://github.com/jeyroik/extas-workflow "Workflow") 
   - `ru` Workflow с поддержкой нескольких схем, ограничений и триггеров.
   - `en` Worklfow with multiple schemas, restrictions and triggers supply.

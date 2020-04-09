@@ -77,6 +77,10 @@
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-mongo/coverage.svg?branch=master)
+- [extas-repositories-fields](https://github.com/jeyroik/extas-repositories-fields "Адапторы для полей сущности") 
+  - `ru` Пакет позволяет создавать адапторы для полей при создании сущности.
+  - `en` Package allow to create fields-adaprots for an item fields on creating.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields/coverage.svg?branch=master)
 - [extas-repositories-fields-sha1](https://github.com/jeyroik/extas-repositories-fields-sha1 "SHA1 для полей сущности") 
   - `ru` Пакет позволяет автоматически генерировать sha1-хеши для полей при создании сущности.
   - `en` Package allow to generate sha1 hash strings for an item fields on creating.

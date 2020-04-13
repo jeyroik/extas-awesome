@@ -81,6 +81,10 @@
   - `ru` Пакет позволяет создавать адапторы для полей при создании сущности.
   - `en` Package allow to create fields-adaprots for an item fields on creating.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields/coverage.svg?branch=master)
+- [extas-repositories-fields-aliases](https://github.com/jeyroik/extas-repositories-fields-aliases "Имя в качестве алиса для полей сущности") 
+  - `ru` Пакет позволяет автоматически подставлять имя сущности в качестве её же алиаса.
+  - `en` Package allow to self-aliasing an item by it's name on creating.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-aliases/coverage.svg?branch=master)
 - [extas-repositories-fields-sha1](https://github.com/jeyroik/extas-repositories-fields-sha1 "SHA1 для полей сущности") 
   - `ru` Пакет позволяет автоматически генерировать sha1-хеши для полей при создании сущности.
   - `en` Package allow to generate sha1 hash strings for an item fields on creating.

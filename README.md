@@ -73,6 +73,10 @@
   - `ru` Пакет для работы с пользователями
   - `en` User extas package.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-players/coverage.svg?branch=master)
+- [extas-player-current](https://github.com/jeyroik/extas-player-current "Текущий пользователь") 
+  - `ru` Пакет предоставляет обёртку для получения текущего авторизованного пользователя.
+  - `en` package provide wrapper for the current authorized user.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-player-current/coverage.svg?branch=master)
 - [extas-repositories-mongo](https://github.com/jeyroik/extas-repositories-mongo "Реопзиторий для работы с MongoDB") 
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.

@@ -93,6 +93,10 @@
   - `ru` Пакет позволяет автоматически генерировать uuid-строки для полей при создании сущности.
   - `en` Package allow to generate uuid strings for an item fields on creating.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-uuid/coverage.svg?branch=master)
+- [extas-samples](https://github.com/jeyroik/extas-samples "Шаблоны, сэмплы для сущностей") 
+  - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
+  - `en` Package provide entities samples (templates) implementation.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-samples/coverage.svg?branch=master)
 - [extas-workflow](https://github.com/jeyroik/extas-workflow "Workflow") 
   - `ru` Workflow с поддержкой нескольких схем, ограничений и триггеров.
   - `en` Worklfow with multiple schemas, restrictions and triggers supply.

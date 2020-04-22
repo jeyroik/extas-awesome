@@ -69,6 +69,10 @@
   - `ru` Машина состояний
   - `en` State machine
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-m/coverage.svg?branch=master)
+- [extas-parsers](https://github.com/jeyroik/extas-parsers "Парсеры") 
+  - `ru` Пакет для парсинга и замены строк.
+  - `en` Package for parsing and replacing strings.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-parsers/coverage.svg?branch=master)
 - [extas-players](https://github.com/jeyroik/extas-players "Управление пользователями") 
   - `ru` Пакет для работы с пользователями
   - `en` User extas package.

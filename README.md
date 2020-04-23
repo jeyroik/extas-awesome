@@ -49,6 +49,7 @@
   - `ru` Механизм условий и ограничений.
   - `en` Conditions and restrictions engine.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-conditions/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-conditions/maintainability"><img src="https://api.codeclimate.com/v1/badges/75161f4b9667f6a7d3d6/maintainability" /></a>
 - [extas-envs](https://github.com/jeyroik/extas-envs "Переменные окружения") 
   - `ru` Пакет для работы с переменными окружения и генерации `.env.dist` файла
   - `en` Allow to install environment parameters and to generate `.env.dist`.

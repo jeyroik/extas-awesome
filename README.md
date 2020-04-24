@@ -110,6 +110,7 @@
   - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
   - `en` Package provide entities samples (templates) implementation.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-samples/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-samples/maintainability"><img src="https://api.codeclimate.com/v1/badges/240007322d019d2f6222/maintainability" /></a>
 - [extas-templates](https://github.com/jeyroik/extas-templates "Шаблоны, устаревший пакет") 
   - `ru` УСТАРЕВШИЙ ПАКЕТ - предпочтительнее использовать `extas-samples`.
   - `en` DEPRECATED - Prefer to use `extas-samples`.

@@ -55,6 +55,11 @@
   - `en` Allow to install environment parameters and to generate `.env.dist`.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-envs/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-envs/maintainability"><img src="https://api.codeclimate.com/v1/badges/e7617f4804b8eab2390b/maintainability" /></a>
+- [extas-errors](https://github.com/jeyroik/extas-errors "Ошибки") 
+  - `ru` Пакет для работы с ошибками.
+  - `en` Package for working with errors.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-errors/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-errors/maintainability"><img src="https://api.codeclimate.com/v1/badges/595eb9e22baad926186c/maintainability" /></a>
 - [extas-event-provider](https://github.com/jeyroik/extas-event-provider "Провайдер для league/event") 
   - `ru` Провайдер событий для [league/event](https://github.com/thephpleague/event), позволяющий использовать extas-стадии и плагины в качестве событий и слушателей
   - `en` Event provider for the [league/event](https://github.com/thephpleague/event), allows to use extas stages (and plugins) as events (and listeners).

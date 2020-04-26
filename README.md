@@ -10,6 +10,7 @@
   - `ru` Базовые сущности платформы.
   - `en` Basic entities.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-foundation/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-foundation/maintainability"><img src="https://api.codeclimate.com/v1/badges/ec6cc3b52b11b9b3a453/maintainability" /></a>
 - [extas-base](https://github.com/jeyroik/extas-base "Набор общий интерфейсов и их реализаций") 
   - `ru` Базовые интерфейсы и их реализации (на базе трейтов).
   - `en` Basic interfaces and traits with it's implementations.

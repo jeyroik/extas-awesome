@@ -20,6 +20,7 @@
   - `ru` пакет для установки extas-совместимых сущностей
   - `en` allow to install extas-compatable-entities.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-installer/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-installer/maintainability"><img src="https://api.codeclimate.com/v1/badges/fe6ec4044e95484071b5/maintainability" /></a>
 
 ## Прочие пакеты
 

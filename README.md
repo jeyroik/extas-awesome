@@ -89,6 +89,7 @@
   - `ru` Пакет для работы с пользователями
   - `en` User extas package.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-players/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-players/maintainability"><img src="https://api.codeclimate.com/v1/badges/08920d1c20f45b540a2c/maintainability" /></a>
 - [extas-player-current](https://github.com/jeyroik/extas-player-current "Текущий пользователь") 
   - `ru` Пакет предоставляет обёртку для получения текущего авторизованного пользователя.
   - `en` package provide wrapper for the current authorized user.
@@ -97,6 +98,7 @@
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-mongo/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-mongo/maintainability"><img src="https://api.codeclimate.com/v1/badges/3c44f0be053be4e5d39b/maintainability" /></a>
 - [extas-repositories-fields](https://github.com/jeyroik/extas-repositories-fields "Адапторы для полей сущности") 
   - `ru` Пакет позволяет создавать адапторы для полей при создании сущности.
   - `en` Package allow to create fields-adaprots for an item fields on creating.

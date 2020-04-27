@@ -115,10 +115,12 @@
   - `ru` Пакет позволяет автоматически генерировать sha1-хеши для полей при создании сущности.
   - `en` Package allow to generate sha1 hash strings for an item fields on creating.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-sha1/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-fields-sha1/maintainability"><img src="https://api.codeclimate.com/v1/badges/1064589e55119bd9ba91/maintainability" /></a>
 - [extas-repositories-fields-uuid](https://github.com/jeyroik/extas-repositories-fields-uuid "Uuid для полей сущности") 
   - `ru` Пакет позволяет автоматически генерировать uuid-строки для полей при создании сущности.
   - `en` Package allow to generate uuid strings for an item fields on creating.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-uuid/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-fields-uuid/maintainability"><img src="https://api.codeclimate.com/v1/badges/55ea44038367cae96917/maintainability" /></a>
 - [extas-samples](https://github.com/jeyroik/extas-samples "Шаблоны, сэмплы для сущностей") 
   - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
   - `en` Package provide entities samples (templates) implementation.

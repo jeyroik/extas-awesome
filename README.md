@@ -32,6 +32,7 @@
   - `ru` Библиотека для создания навыков для Алисы Яндекса.
   - `en` Library for the Yandex Alice skills development.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-alice/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-alice/maintainability"><img src="https://api.codeclimate.com/v1/badges/912cfaa0bf463b1e9b2f/maintainability" /></a>
 - [extas-alice-example](https://github.com/jeyroik/extas-alice-example "Пример использования библиотеки для создания навыков для Алисы Яндекса") 
   - `ru` Пример использования библиотеки `extas-alice`.
   - `en` Example of `extas-alice` usage.

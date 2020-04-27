@@ -153,6 +153,7 @@
   - `ru` Обработчики переходов для Workflow.
   - `en` Transitions dispatchers for Workflow.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-workflow-dispatchers/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-workflow-dispatchers/maintainability"><img src="https://api.codeclimate.com/v1/badges/4302f83f76249d1b5540/maintainability" /></a>
 - [extas-workflow-dashboard-svelte](https://github.com/jeyroik/extas-workflow-dashboard-svelte "Борд для управления Workflow") 
   - `ru` Svelte клиент для API для работы с Workflow
   - `en` Svelte client for Workflow API, based on `extas-worklfow-dashboard`.

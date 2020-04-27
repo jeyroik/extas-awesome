@@ -69,22 +69,27 @@
   - `ru` Провайдер событий для [league/event](https://github.com/thephpleague/event), позволяющий использовать extas-стадии и плагины в качестве событий и слушателей
   - `en` Event provider for the [league/event](https://github.com/thephpleague/event), allows to use extas stages (and plugins) as events (and listeners).
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-event-provider/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-event-provider/maintainability"><img src="https://api.codeclimate.com/v1/badges/fdf5e195899f386b9a9b/maintainability" /></a>
 - [extas-expands](https://github.com/jeyroik/extas-expands "Самораспаковывающиеся API") 
   - `ru` Позволяет реализовывать самораспаковывающиеся API (например, как у Jira).
   - `en` Allow to provide self-extracting API (ex. Jira).
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-expands/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-expands/maintainability"><img src="https://api.codeclimate.com/v1/badges/93d2094728c65c5f2be5/maintainability" /></a>
 - [extas-jsonrpc](https://github.com/jeyroik/extas-jsonrpc "Сервер JSON RPC") 
   - `ru` JSON RPC сервер, пакет позволяет создавать спецификации API на основе плагинов установки сущностей
   - `en` JSON RPC server, allow to generate specs upon to `PluginInstall` classes (see `extas-installer`).
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-jsonrpc/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-jsonrpc/maintainability"><img src="https://api.codeclimate.com/v1/badges/5981e38afb0c2f62c78f/maintainability" /></a>
 - [extas-m](https://github.com/jeyroik/extas-m "Машина состояний") 
   - `ru` Машина состояний
   - `en` State machine
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-m/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-m/maintainability"><img src="https://api.codeclimate.com/v1/badges/a80fcbd188c210fefb73/maintainability" /></a>
 - [extas-parsers](https://github.com/jeyroik/extas-parsers "Парсеры") 
   - `ru` Пакет для парсинга и замены строк.
   - `en` Package for parsing and replacing strings.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-parsers/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-parsers/maintainability"><img src="https://api.codeclimate.com/v1/badges/5161d1e4fd84a9aeadd6/maintainability" /></a>
 - [extas-players](https://github.com/jeyroik/extas-players "Управление пользователями") 
   - `ru` Пакет для работы с пользователями
   - `en` User extas package.
@@ -94,6 +99,7 @@
   - `ru` Пакет предоставляет обёртку для получения текущего авторизованного пользователя.
   - `en` package provide wrapper for the current authorized user.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-player-current/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-player-current/maintainability"><img src="https://api.codeclimate.com/v1/badges/0e60f4d25047f6b83ce1/maintainability" /></a>
 - [extas-repositories-mongo](https://github.com/jeyroik/extas-repositories-mongo "Реопзиторий для работы с MongoDB") 
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.

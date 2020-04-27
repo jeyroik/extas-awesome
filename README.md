@@ -15,6 +15,7 @@
   - `ru` Базовые интерфейсы и их реализации (на базе трейтов).
   - `en` Basic interfaces and traits with it's implementations.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-base/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-base/maintainability"><img src="https://api.codeclimate.com/v1/badges/27537eb2e1028bcd65ce/maintainability" /></a>
 - [extas-installer](https://github.com/jeyroik/extas-installer "Установка extas-совместимых сущностей") 
   - `ru` пакет для установки extas-совместимых сущностей
   - `en` allow to install extas-compatable-entities.

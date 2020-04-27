@@ -144,6 +144,7 @@
   - `ru` Workflow с поддержкой нескольких схем, ограничений и триггеров.
   - `en` Worklfow with multiple schemas, restrictions and triggers supply.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-workflow/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-workflow/maintainability"><img src="https://api.codeclimate.com/v1/badges/252d9611f230455ea854/maintainability" /></a>
 - [extas-workflow-dashboard](https://github.com/jeyroik/extas-workflow-dashboard "Микросервис Workflow") 
   - `ru` API для работы с Workflow
   - `en` Workflow JSON RPC api, based on `extas-worklfow`.

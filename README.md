@@ -28,6 +28,7 @@
   - `ru` Реализация RBAC доступа с чистым воплощением правила "Всё, что не разрешено - запрещено".
   - `en` RBAC with pure implementation of the rule "All that is not allowed is restricted".
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-access/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-access/maintainability"><img src="https://api.codeclimate.com/v1/badges/ffff257103af0ab71a9c/maintainability" /></a>
 - [extas-alice](https://github.com/jeyroik/extas-alice "Библиотека для создания навыков для Алисы Яндекса") 
   - `ru` Библиотека для создания навыков для Алисы Яндекса.
   - `en` Library for the Yandex Alice skills development.

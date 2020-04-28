@@ -149,6 +149,7 @@
   - `ru` API для работы с Workflow
   - `en` Workflow JSON RPC api, based on `extas-worklfow`.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-workflow-dashboard/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-workflow-dashboard/maintainability"><img src="https://api.codeclimate.com/v1/badges/fcade60c962fb84e49e2/maintainability" /></a>
 - [extas-workflow-dispatchers](https://github.com/jeyroik/extas-workflow-dispatchers "Обработчики переходов для Workflow") 
   - `ru` Обработчики переходов для Workflow.
   - `en` Transitions dispatchers for Workflow.

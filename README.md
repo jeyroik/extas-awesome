@@ -100,6 +100,11 @@
   - `en` package provide wrapper for the current authorized user.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-player-current/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-player-current/maintainability"><img src="https://api.codeclimate.com/v1/badges/0e60f4d25047f6b83ce1/maintainability" /></a>
+- [extas-repositories-get](https://github.com/jeyroik/extas-repositories-get "Расширение для получения реопзиториев") 
+  - `ru` Расширение для получения репозиториев.
+  - `en` Extension for getting repositories.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-get/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-get/maintainability"><img src="https://api.codeclimate.com/v1/badges/62260857ba00ea43a0dd/maintainability" /></a>
 - [extas-repositories-mongo](https://github.com/jeyroik/extas-repositories-mongo "Реопзиторий для работы с MongoDB") 
   - `ru` Extas-совместимый репозиторий MongoDB
   - `en` MongoDB extas-compatable repository.

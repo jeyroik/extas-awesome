@@ -141,6 +141,7 @@
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-uuid/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-fields-uuid/maintainability"><img src="https://api.codeclimate.com/v1/badges/55ea44038367cae96917/maintainability" /></a>
 - [extas-samples](https://github.com/jeyroik/extas-samples "Шаблоны, сэмплы для сущностей") 
+  - <img src="https://img.shields.io/badge/deprecated-do%20not%20use-red"> 
   - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
   - `en` Package provide entities samples (templates) implementation.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-samples/coverage.svg?branch=master)

@@ -85,10 +85,6 @@
   - `en` State machine
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-m/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-m/maintainability"><img src="https://api.codeclimate.com/v1/badges/a80fcbd188c210fefb73/maintainability" /></a>
-- [extas-parameters](https://github.com/jeyroik/extas-parameters "Параметры") 
-  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-foundation` sample parameters.
-  - `ru` Пакет с моделью параметра.
-  - `en` Package with parameter model.
 - [extas-parsers](https://github.com/jeyroik/extas-parsers "Парсеры") 
   - `ru` Пакет для парсинга и замены строк.
   - `en` Package for parsing and replacing strings.
@@ -144,18 +140,6 @@
   - `en` Package allow to generate uuid strings for an item fields on creating.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-repositories-fields-uuid/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-repositories-fields-uuid/maintainability"><img src="https://api.codeclimate.com/v1/badges/55ea44038367cae96917/maintainability" /></a>
-- [extas-samples](https://github.com/jeyroik/extas-samples "Шаблоны, сэмплы для сущностей") 
-  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-foundation`.
-  - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
-  - `en` Package provide entities samples (templates) implementation.
-  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-samples/coverage.svg?branch=master)
-  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-samples/maintainability"><img src="https://api.codeclimate.com/v1/badges/240007322d019d2f6222/maintainability" /></a>
-- [extas-templates](https://github.com/jeyroik/extas-templates "Шаблоны, устаревший пакет") 
-  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-samples`.
-  - `ru` Шаблоны.
-  - `en` Templates.
-  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-templates/coverage.svg?branch=master)
-  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-templates/maintainability"><img src="https://api.codeclimate.com/v1/badges/2d0f94b2ae161e58bc50/maintainability" /></a>
 - [extas-workflow](https://github.com/jeyroik/extas-workflow "Workflow") 
   - `ru` Workflow с поддержкой нескольких схем, ограничений и триггеров.
   - `en` Worklfow with multiple schemas, restrictions and triggers supply.
@@ -179,3 +163,22 @@
   - `ru` Пример использования пакета workflow
   - `en` Example project, shows the workflow usage.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-workflow-example/coverage.svg?branch=master)
+
+## Устаревшие
+
+- [extas-parameters](https://github.com/jeyroik/extas-parameters "Параметры") 
+  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-foundation` sample parameters.
+  - `ru` Пакет с моделью параметра.
+  - `en` Package with parameter model.
+- [extas-samples](https://github.com/jeyroik/extas-samples "Шаблоны, сэмплы для сущностей") 
+  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-foundation`.
+  - `ru` Пакет предоставляет реализацию семплов (шаблонов) для сущностей.
+  - `en` Package provide entities samples (templates) implementation.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-samples/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-samples/maintainability"><img src="https://api.codeclimate.com/v1/badges/240007322d019d2f6222/maintainability" /></a>
+- [extas-templates](https://github.com/jeyroik/extas-templates "Шаблоны, устаревший пакет") 
+  - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-samples`.
+  - `ru` Шаблоны.
+  - `en` Templates.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-templates/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-templates/maintainability"><img src="https://api.codeclimate.com/v1/badges/2d0f94b2ae161e58bc50/maintainability" /></a>

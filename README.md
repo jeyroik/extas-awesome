@@ -42,7 +42,7 @@
   - `ru` Пакет для построения API.
   - `en` Package for API building.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-api/coverage.svg?branch=master)
-  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-players-groups/maintainability"><img src="https://api.codeclimate.com/v1/badges/c76131ecf430ec1df5e2/maintainability" /></a>
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-api/maintainability"><img src="https://api.codeclimate.com/v1/badges/1363a8cd36dd22990793/maintainability" /></a>
 - [extas-bv](https://github.com/jeyroik/extas-bv "Бизнес ценность задач") 
   - `ru` Библиотека для расчёта бизнес ценности задач.
   - `en` Tasks business value calculating library.

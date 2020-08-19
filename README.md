@@ -38,6 +38,11 @@
   - `ru` Пример использования библиотеки `extas-alice`.
   - `en` Example of `extas-alice` usage.
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-alice-example/coverage.svg?branch=master)
+- [extas-api](https://github.com/jeyroik/extas-api "Пакет для построения API") 
+  - `ru` Пакет для построения API.
+  - `en` Package for API building.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-api/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-players-groups/maintainability"><img src="https://api.codeclimate.com/v1/badges/c76131ecf430ec1df5e2/maintainability" /></a>
 - [extas-bv](https://github.com/jeyroik/extas-bv "Бизнес ценность задач") 
   - `ru` Библиотека для расчёта бизнес ценности задач.
   - `en` Tasks business value calculating library.

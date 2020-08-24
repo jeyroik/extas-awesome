@@ -80,11 +80,11 @@
   - `en` Allow to provide self-extracting API (ex. Jira).
   - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-expands/coverage.svg?branch=master)
   - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-expands/maintainability"><img src="https://api.codeclimate.com/v1/badges/93d2094728c65c5f2be5/maintainability" /></a>
-- [extas-jsonrpc](https://github.com/jeyroik/extas-jsonrpc "Сервер JSON RPC") 
-  - `ru` JSON RPC сервер, пакет позволяет создавать спецификации API на основе плагинов установки сущностей
-  - `en` JSON RPC server, allow to generate specs upon to `PluginInstall` classes (see `extas-installer`).
-  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-jsonrpc/coverage.svg?branch=master)
-  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-jsonrpc/maintainability"><img src="https://api.codeclimate.com/v1/badges/5981e38afb0c2f62c78f/maintainability" /></a>
+- [extas-api-jsonrpc](https://github.com/jeyroik/extas-api-jsonrpc "Сервер JSON RPC") 
+  - `ru` JSON RPC сервер.
+  - `en` JSON RPC server.
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-api-jsonrpc/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-api-jsonrpc/maintainability"><img src="https://api.codeclimate.com/v1/badges/c58607cca54051a8db95/maintainability" /></a>
 - [extas-m](https://github.com/jeyroik/extas-m "Машина состояний") 
   - `ru` Машина состояний
   - `en` State machine
@@ -171,6 +171,11 @@
 
 ## Устаревшие
 
+- [extas-jsonrpc](https://github.com/jeyroik/extas-jsonrpc "Сервер JSON RPC") 
+  - `ru` JSON RPC сервер, пакет позволяет создавать спецификации API на основе плагинов установки сущностей
+  - `en` JSON RPC server, allow to generate specs upon to `PluginInstall` classes (see `extas-installer`).
+  - `tests` ![codecov.io](https://codecov.io/gh/jeyroik/extas-jsonrpc/coverage.svg?branch=master)
+  - `climate` <a href="https://codeclimate.com/github/jeyroik/extas-jsonrpc/maintainability"><img src="https://api.codeclimate.com/v1/badges/5981e38afb0c2f62c78f/maintainability" /></a>
 - [extas-parameters](https://github.com/jeyroik/extas-parameters "Параметры") 
   - <img src="https://img.shields.io/badge/deprecated-yes-red"> please, use `extas-foundation` sample parameters.
   - `ru` Пакет с моделью параметра.
